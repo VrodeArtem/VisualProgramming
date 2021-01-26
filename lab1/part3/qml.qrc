@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Stopwatch.qml</file>
+        <file>Numbers.qml</file>
+    </qresource>
+</RCC>
